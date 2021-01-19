@@ -1,0 +1,6 @@
+card question|card answer
+who painted the "Mona Lisa" ?|Leonardo da Vinci
+Who painted "The Scream"?|Edvard Munch
+What object commonly appears in Picasso's paintings?|Guitar
+How many paintings did Vincent Van Gogh sell during his lifetime?|1
+Vermillion is a shade of which color?|Red
